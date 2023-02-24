@@ -1,0 +1,3 @@
+Ejercio de como generar un repositorio en GITHUB.
+
+Crear un caparta y luego un archivo llamado 'Primerarchivo.txt'
